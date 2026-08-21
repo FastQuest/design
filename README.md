@@ -15,8 +15,8 @@ As interfaces foram organizadas por plataforma e divididas conforme as rotas e c
 │   ├── 📁 home/          # Dashboard inicial e Feed da versão Mobile
 │   ├── 📁 questoes/      # Listagem de questões, Tela de Resolução e Gabarito
 │   ├── 📁 listas/        # Criação, Edição e Visualização de listas salvas
-│   ├── 📁 perfil/        # Configurações do usuário e Histórico
-│    📁 components/    # SVGs de componentes móveis (botões, modais, alertas)
+│   └── 📁 perfil/        # Configurações do usuário e Histórico
+│
 └── 📁 web/
     ├── 📁 auth/          # Autenticação e Gestão de Contas (Desktop)
     ├── 📁 home/          # Visão geral
